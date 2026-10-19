@@ -42,7 +42,7 @@ gemeo-digital-esteira/
 ## Pré-requisitos
 
 - **Git** com **Git LFS** instalado — os modelos 3D e texturas ficam no LFS.
-- **Unity 6000.3.17f1** (ou compatível), com **URP** (Universal Render Pipeline).
+- **Unity 6000.3.23f1** (ou compatível), com **URP** (Universal Render Pipeline).
 - **Python 3.10+** para o dashboard.
 
 ### Clonando o repositório
